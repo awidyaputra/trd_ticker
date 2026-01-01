@@ -6,7 +6,7 @@ authors = [
     {name = "Aulia Widyaputra"}
 ]
 readme = "README.md"
-requires-python = ">=3.13,<4.0"
+requires-python = ">=3.11,<4.0"
 dependencies = [
     "google-adk (>=1.21.0,<2.0.0)",
     "aiohttp[speedups] (>=3.13.2,<4.0.0)",
